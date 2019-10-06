@@ -1,4 +1,4 @@
-Note that for the portfolio version of this website, the code included in this repository excludes the CMS code. Therefore, only the **CYHIEE Website Installation and Access** part of this README will be relevant.
+Note that since the code included in this repository is only a portfolio version, the CMS code that is integrated into this website is excluded. Therefore, only the **CYHIEE Website Installation and Access** part of this README will be relevant.
 
 # Index
 
