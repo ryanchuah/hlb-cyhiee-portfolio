@@ -1,0 +1,94 @@
+.alignCenter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+.titleWrapperStyle{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.linkStyle{
+  cursor: pointer;
+  color: #007bff;
+  display: inline;
+}
+
+.linkStyle:hover{
+  color: rgb(0, 86, 179);
+}
+.select{
+  appearance: none;
+  background: url(./images/icons/caretDown.svg) 96% / 0.5rem no-repeat;
+  width: 100%;
+  height: 100%;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+}
+
+/* =============== Backgrounds =============== */
+
+.mapSectionBackground{
+  position: relative;
+}
+
+.mapSectionBackground:before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(to bottom, #0b138e, #2B46B3);
+  z-index: 0;
+}
+
+.winnerSectionBackground:before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient( rgba(1, 1, 180, 0.965), rgba(48, 0, 193, 0.807));
+  z-index: 0;
+}
+
+.gallerySectionBackground{
+  position: relative;
+}
+
+.gallerySectionBackground:before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(to bottom, rgb(64, 0, 193), rgb(160, 33, 202));
+  z-index: 0;
+}
+
+/* =============== End backgrounds =============== */
+
+/* =============== Back to top button =============== */
+
+.AnyClassForContainer {
+  position: fixed;
+  right: 1rem;
+  bottom: -150px;
+  transition: bottom 0.5s;
+  cursor: pointer;
+}
+
+.AnyClassForTransition {
+  bottom: 4rem;
+}
+
+
+  
