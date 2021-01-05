@@ -12,7 +12,7 @@
   "author": "Ryan Chuah",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cloudinary": "^1.14.0",
     "concurrently": "^4.1.1",
     "dotenv": "^8.0.0",
