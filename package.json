@@ -20,7 +20,7 @@
     "express-basic-auth": "^1.2.0",
     "mongodb": "^3.3.0-beta2",
     "papaparse": "^5.0.0",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
