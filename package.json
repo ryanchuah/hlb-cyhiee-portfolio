@@ -16,7 +16,7 @@
     "cloudinary": "^1.14.0",
     "concurrently": "^4.1.1",
     "dotenv": "^8.0.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-basic-auth": "^1.2.0",
     "mongodb": "^3.3.0-beta2",
     "papaparse": "^5.0.0",
